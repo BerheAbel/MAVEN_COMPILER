@@ -1,0 +1,2 @@
+# MAVEN_COMPILER
+Test 1 2 3
